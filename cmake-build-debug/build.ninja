@@ -164,6 +164,285 @@ build listing2.4: CXX_EXECUTABLE_LINKER__listing2.2e4_Debug CMakeFiles/listing2.
   TARGET_FILE = listing2.4
   TARGET_PDB = listing2.4.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target listing2.5
+
+
+#############################################
+# Order-only phony target for listing2.5
+
+build cmake_object_order_depends_target_listing2.5: phony || CMakeFiles/listing2.5.dir
+
+build CMakeFiles/listing2.5.dir/chapter2/listing2.5.cpp.o: CXX_COMPILER__listing2.2e5_Debug /Users/sham/CLionProjects/prata_cpp/chapter2/listing2.5.cpp || cmake_object_order_depends_target_listing2.5
+  DEP_FILE = CMakeFiles/listing2.5.dir/chapter2/listing2.5.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/listing2.5.dir
+  OBJECT_FILE_DIR = CMakeFiles/listing2.5.dir/chapter2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target listing2.5
+
+
+#############################################
+# Link the executable listing2.5
+
+build listing2.5: CXX_EXECUTABLE_LINKER__listing2.2e5_Debug CMakeFiles/listing2.5.dir/chapter2/listing2.5.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/listing2.5.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = listing2.5
+  TARGET_PDB = listing2.5.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target listing2.6
+
+
+#############################################
+# Order-only phony target for listing2.6
+
+build cmake_object_order_depends_target_listing2.6: phony || CMakeFiles/listing2.6.dir
+
+build CMakeFiles/listing2.6.dir/chapter2/listing2.6.cpp.o: CXX_COMPILER__listing2.2e6_Debug /Users/sham/CLionProjects/prata_cpp/chapter2/listing2.6.cpp || cmake_object_order_depends_target_listing2.6
+  DEP_FILE = CMakeFiles/listing2.6.dir/chapter2/listing2.6.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/listing2.6.dir
+  OBJECT_FILE_DIR = CMakeFiles/listing2.6.dir/chapter2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target listing2.6
+
+
+#############################################
+# Link the executable listing2.6
+
+build listing2.6: CXX_EXECUTABLE_LINKER__listing2.2e6_Debug CMakeFiles/listing2.6.dir/chapter2/listing2.6.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/listing2.6.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = listing2.6
+  TARGET_PDB = listing2.6.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise2.1
+
+
+#############################################
+# Order-only phony target for exercise2.1
+
+build cmake_object_order_depends_target_exercise2.1: phony || CMakeFiles/exercise2.1.dir
+
+build CMakeFiles/exercise2.1.dir/chapter2/exercise2.1.cpp.o: CXX_COMPILER__exercise2.2e1_Debug /Users/sham/CLionProjects/prata_cpp/chapter2/exercise2.1.cpp || cmake_object_order_depends_target_exercise2.1
+  DEP_FILE = CMakeFiles/exercise2.1.dir/chapter2/exercise2.1.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/exercise2.1.dir
+  OBJECT_FILE_DIR = CMakeFiles/exercise2.1.dir/chapter2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise2.1
+
+
+#############################################
+# Link the executable exercise2.1
+
+build exercise2.1: CXX_EXECUTABLE_LINKER__exercise2.2e1_Debug CMakeFiles/exercise2.1.dir/chapter2/exercise2.1.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/exercise2.1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = exercise2.1
+  TARGET_PDB = exercise2.1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise2.2
+
+
+#############################################
+# Order-only phony target for exercise2.2
+
+build cmake_object_order_depends_target_exercise2.2: phony || CMakeFiles/exercise2.2.dir
+
+build CMakeFiles/exercise2.2.dir/chapter2/exercise2.2.cpp.o: CXX_COMPILER__exercise2.2e2_Debug /Users/sham/CLionProjects/prata_cpp/chapter2/exercise2.2.cpp || cmake_object_order_depends_target_exercise2.2
+  DEP_FILE = CMakeFiles/exercise2.2.dir/chapter2/exercise2.2.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/exercise2.2.dir
+  OBJECT_FILE_DIR = CMakeFiles/exercise2.2.dir/chapter2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise2.2
+
+
+#############################################
+# Link the executable exercise2.2
+
+build exercise2.2: CXX_EXECUTABLE_LINKER__exercise2.2e2_Debug CMakeFiles/exercise2.2.dir/chapter2/exercise2.2.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/exercise2.2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = exercise2.2
+  TARGET_PDB = exercise2.2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise2.3
+
+
+#############################################
+# Order-only phony target for exercise2.3
+
+build cmake_object_order_depends_target_exercise2.3: phony || CMakeFiles/exercise2.3.dir
+
+build CMakeFiles/exercise2.3.dir/chapter2/exercise2.3.cpp.o: CXX_COMPILER__exercise2.2e3_Debug /Users/sham/CLionProjects/prata_cpp/chapter2/exercise2.3.cpp || cmake_object_order_depends_target_exercise2.3
+  DEP_FILE = CMakeFiles/exercise2.3.dir/chapter2/exercise2.3.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/exercise2.3.dir
+  OBJECT_FILE_DIR = CMakeFiles/exercise2.3.dir/chapter2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise2.3
+
+
+#############################################
+# Link the executable exercise2.3
+
+build exercise2.3: CXX_EXECUTABLE_LINKER__exercise2.2e3_Debug CMakeFiles/exercise2.3.dir/chapter2/exercise2.3.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/exercise2.3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = exercise2.3
+  TARGET_PDB = exercise2.3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise2.4
+
+
+#############################################
+# Order-only phony target for exercise2.4
+
+build cmake_object_order_depends_target_exercise2.4: phony || CMakeFiles/exercise2.4.dir
+
+build CMakeFiles/exercise2.4.dir/chapter2/exercise2.4.cpp.o: CXX_COMPILER__exercise2.2e4_Debug /Users/sham/CLionProjects/prata_cpp/chapter2/exercise2.4.cpp || cmake_object_order_depends_target_exercise2.4
+  DEP_FILE = CMakeFiles/exercise2.4.dir/chapter2/exercise2.4.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/exercise2.4.dir
+  OBJECT_FILE_DIR = CMakeFiles/exercise2.4.dir/chapter2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise2.4
+
+
+#############################################
+# Link the executable exercise2.4
+
+build exercise2.4: CXX_EXECUTABLE_LINKER__exercise2.2e4_Debug CMakeFiles/exercise2.4.dir/chapter2/exercise2.4.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/exercise2.4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = exercise2.4
+  TARGET_PDB = exercise2.4.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise2.5
+
+
+#############################################
+# Order-only phony target for exercise2.5
+
+build cmake_object_order_depends_target_exercise2.5: phony || CMakeFiles/exercise2.5.dir
+
+build CMakeFiles/exercise2.5.dir/chapter2/exercise2.5.cpp.o: CXX_COMPILER__exercise2.2e5_Debug /Users/sham/CLionProjects/prata_cpp/chapter2/exercise2.5.cpp || cmake_object_order_depends_target_exercise2.5
+  DEP_FILE = CMakeFiles/exercise2.5.dir/chapter2/exercise2.5.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/exercise2.5.dir
+  OBJECT_FILE_DIR = CMakeFiles/exercise2.5.dir/chapter2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise2.5
+
+
+#############################################
+# Link the executable exercise2.5
+
+build exercise2.5: CXX_EXECUTABLE_LINKER__exercise2.2e5_Debug CMakeFiles/exercise2.5.dir/chapter2/exercise2.5.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/exercise2.5.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = exercise2.5
+  TARGET_PDB = exercise2.5.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise2.6
+
+
+#############################################
+# Order-only phony target for exercise2.6
+
+build cmake_object_order_depends_target_exercise2.6: phony || CMakeFiles/exercise2.6.dir
+
+build CMakeFiles/exercise2.6.dir/chapter2/exercise2.6.cpp.o: CXX_COMPILER__exercise2.2e6_Debug /Users/sham/CLionProjects/prata_cpp/chapter2/exercise2.6.cpp || cmake_object_order_depends_target_exercise2.6
+  DEP_FILE = CMakeFiles/exercise2.6.dir/chapter2/exercise2.6.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/exercise2.6.dir
+  OBJECT_FILE_DIR = CMakeFiles/exercise2.6.dir/chapter2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise2.6
+
+
+#############################################
+# Link the executable exercise2.6
+
+build exercise2.6: CXX_EXECUTABLE_LINKER__exercise2.2e6_Debug CMakeFiles/exercise2.6.dir/chapter2/exercise2.6.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/exercise2.6.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = exercise2.6
+  TARGET_PDB = exercise2.6.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise2.7
+
+
+#############################################
+# Order-only phony target for exercise2.7
+
+build cmake_object_order_depends_target_exercise2.7: phony || CMakeFiles/exercise2.7.dir
+
+build CMakeFiles/exercise2.7.dir/chapter2/exercise2.7.cpp.o: CXX_COMPILER__exercise2.2e7_Debug /Users/sham/CLionProjects/prata_cpp/chapter2/exercise2.7.cpp || cmake_object_order_depends_target_exercise2.7
+  DEP_FILE = CMakeFiles/exercise2.7.dir/chapter2/exercise2.7.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/exercise2.7.dir
+  OBJECT_FILE_DIR = CMakeFiles/exercise2.7.dir/chapter2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise2.7
+
+
+#############################################
+# Link the executable exercise2.7
+
+build exercise2.7: CXX_EXECUTABLE_LINKER__exercise2.2e7_Debug CMakeFiles/exercise2.7.dir/chapter2/exercise2.7.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/exercise2.7.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = exercise2.7
+  TARGET_PDB = exercise2.7.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -198,7 +477,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/sham/CLionProjects/prata_cpp/cmake-build-debug
 
-build all: phony listing2.1 listing2.2 listing2.3 listing2.4
+build all: phony listing2.1 listing2.2 listing2.3 listing2.4 listing2.5 listing2.6 exercise2.1 exercise2.2 exercise2.3 exercise2.4 exercise2.5 exercise2.6 exercise2.7
 
 # =============================================================================
 # Built-in targets

@@ -2,5 +2,14 @@
 /Users/sham/CLionProjects/prata_cpp/cmake-build-debug/CMakeFiles/listing2.2.dir
 /Users/sham/CLionProjects/prata_cpp/cmake-build-debug/CMakeFiles/listing2.3.dir
 /Users/sham/CLionProjects/prata_cpp/cmake-build-debug/CMakeFiles/listing2.4.dir
+/Users/sham/CLionProjects/prata_cpp/cmake-build-debug/CMakeFiles/listing2.5.dir
+/Users/sham/CLionProjects/prata_cpp/cmake-build-debug/CMakeFiles/listing2.6.dir
+/Users/sham/CLionProjects/prata_cpp/cmake-build-debug/CMakeFiles/exercise2.1.dir
+/Users/sham/CLionProjects/prata_cpp/cmake-build-debug/CMakeFiles/exercise2.2.dir
+/Users/sham/CLionProjects/prata_cpp/cmake-build-debug/CMakeFiles/exercise2.3.dir
+/Users/sham/CLionProjects/prata_cpp/cmake-build-debug/CMakeFiles/exercise2.4.dir
+/Users/sham/CLionProjects/prata_cpp/cmake-build-debug/CMakeFiles/exercise2.5.dir
+/Users/sham/CLionProjects/prata_cpp/cmake-build-debug/CMakeFiles/exercise2.6.dir
+/Users/sham/CLionProjects/prata_cpp/cmake-build-debug/CMakeFiles/exercise2.7.dir
 /Users/sham/CLionProjects/prata_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/sham/CLionProjects/prata_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
