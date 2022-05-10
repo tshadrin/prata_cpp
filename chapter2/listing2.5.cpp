@@ -2,7 +2,7 @@
 // Created by Анатолий Шадрин on 06.05.22.
 //
 #include <iostream>
-void simon(int);
+void simon(int n);
 
 int main()
 {
