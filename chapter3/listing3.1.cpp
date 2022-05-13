@@ -13,8 +13,8 @@ int main()
     long long n_llong = LLONG_MAX;
 
     cout << "int is " << sizeof (int) << " bytes." << endl;
-    cout << "short is" << sizeof n_short <<   "bytes." << endl;
-    cout << "long is" << sizeof n_long << " bytes." << endl;
-    cout << "long long is" << sizeof n_llong << " bytes." << endl;
+    cout << "short is " << sizeof n_short <<   " bytes." << endl;
+    cout << "long is " << sizeof n_long << " bytes." << endl;
+    cout << "long long is " << sizeof n_llong << " bytes." << endl;
     return 0;
 }
