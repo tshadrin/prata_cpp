@@ -9,6 +9,6 @@ int main()
     cout << "Введите население страны: ";
     long long p_country;
     cin >> p_country;
-    cout << "Население этой страны составляет " << (double)p_country / (population / 100) << "% от населения мира.";
+    cout << "Население этой страны составляет " << (double)p_country / ((double)population / 100) << "% от населения мира.";
     return 0;
 }
