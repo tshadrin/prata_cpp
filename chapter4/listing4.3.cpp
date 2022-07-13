@@ -1,8 +1,4 @@
-//
-// Created by Анатолий Шадрин on 16.05.22.
-//
 #include <iostream>
-#include <cstring>
 
 int main()
 {

@@ -1,6 +1,3 @@
-//
-// Created by Анатолий Шадрин on 05.05.22.
-//
 #include <iostream>
 #include <cmath>
 

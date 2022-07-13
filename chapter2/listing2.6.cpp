@@ -1,7 +1,5 @@
-//
-// Created by Анатолий Шадрин on 06.05.22.
-//
 #include <iostream>
+
 int stonetolb(int n);
 
 int main()

@@ -1,6 +1,3 @@
-//
-// Created by Анатолий Шадрин on 10.05.22.
-//
 #include <iostream>
 #include <climits>
 
