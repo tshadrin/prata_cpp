@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.22)
 project(prata_cpp_cpt3)
 
-set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD 17)
 
 add_executable(listing3.1 listing3.1.cpp)
 add_executable(listing3.2 listing3.2.cpp)
