@@ -12,6 +12,7 @@ int main()
     cout << "Enter your favorite dessert:\n";
     cin.getline(dessert, ArSize);
     //А че толку? Если имя не помещается в массив - второй getline не срабатывает.
+    //Пока не вызовешь     cin.clear();
     cout << "I have some delicious " << dessert;
     cout << " for you " << name << ".\n";
 
