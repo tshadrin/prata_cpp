@@ -10,7 +10,7 @@ int main()
 
     cout << "Length of string in charr before input: "
         << strlen(charr) << endl;
-    cout << "Length of string im str before input: "
+    cout << "Length of string in str before input: "
         << str.size() << endl;
 
     cout << "Enter a line of text:\n";
