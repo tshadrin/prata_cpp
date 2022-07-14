@@ -6,6 +6,7 @@ int main()
     cout << "What year was your house built?\n";
     int year;
     cin >> year;
+    //исправляется так (cin >> year).get();
     cout << "What is its street address?\n";
     char address[80];
     cin.getline(address, 80);
