@@ -12,3 +12,8 @@ add_executable(listing4.7 listing4.7.cpp)
 add_executable(listing4.8 listing4.8.cpp)
 add_executable(listing4.9 listing4.9.cpp)
 add_executable(listing4.10 listing4.10.cpp)
+
+add_executable(exercise4.1 exercise4.1.cpp)
+add_executable(exercise4.2 exercise4.2.cpp)
+add_executable(exercise4.3 exercise4.3.cpp)
+add_executable(exercise4.4 exercise4.4.cpp)
