@@ -3,7 +3,7 @@
 
 using namespace std;
 
-char *getname(void);
+char *getname(); //void в качестве аргумента не нужно писать в прототипе функции
 
 int main()
 {
