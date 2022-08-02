@@ -24,5 +24,8 @@ int main()
     << ", company pizza diameter is " << nc->diameter
     << ", company pizza weight is " << nc->weight
     << std::endl;
+
+    delete nc;
+
     return 0;
 }
