@@ -3,7 +3,6 @@
 int main()
 {
     using namespace std;
-    float hats, heads;
 
     cout.setf(ios_base::fixed, ios_base::floatfield);
     cout << "Integer division: 9 / 5 = " << 9 / 5 << endl;
