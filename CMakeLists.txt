@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 3.22)
 project(prata_cpp)
 
 set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_EXE_LINKER_FLAGS "-static-libgcc -static-libstdc++ -static")
 include_directories(chapter2)
 add_subdirectory(chapter2)
 include_directories(chapter3)
