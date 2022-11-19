@@ -13,10 +13,16 @@ int main()
     cout << (x < 3) << endl;
     cout << "The expression x > 3 has the value ";
     cout << (x > 3) << endl;
-    cout.setf(ios_base::boolalpha);
-    cout << "The expression x < 3 has the value ";
+    //cout.setf(ios_base::boolalpha);
+    cout << boolalpha << "The expression x < 3 has the value ";
+    cout << (x < 3) << endl;
+    cout << "The expression x > 3 has the value ";
+    cout << (x > 3) << noboolalpha << endl;
+    cout  << "The expression x < 3 has the value ";
     cout << (x < 3) << endl;
     cout << "The expression x > 3 has the value ";
     cout << (x > 3) << endl;
+    //cout.unsetf(ios_base::boolalpha);
     return 0;
+
 }
