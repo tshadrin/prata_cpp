@@ -21,11 +21,11 @@ int main()
     for(int i = 0; i < count; i++) {
         cout << "Auto #" << i + 1 << endl;
         cout << "Enter car model name: " << endl;
-        string tmp_name;
-        int tmp_year;
         cin.get();
+        tring tmp_name;
         getline(cin, tmp_name);
         cout << "Enter car release date:" << endl;
+        int tmp_year;
         cin >> tmp_year;
         catalog[i] = {tmp_name, tmp_year};
     }
