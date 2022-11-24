@@ -22,7 +22,7 @@ int main()
         cout << "Auto #" << i + 1 << endl;
         cout << "Enter car model name: " << endl;
         cin.get();
-        tring tmp_name;
+        string tmp_name;
         getline(cin, tmp_name);
         cout << "Enter car release date:" << endl;
         int tmp_year;
