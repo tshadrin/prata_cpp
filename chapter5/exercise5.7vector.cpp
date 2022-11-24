@@ -15,7 +15,8 @@ int main()
     cout << "How many cars do you wish to catalog? ";
     int count = 1;
     cin >> count;
-    auto * catalog  = new vector<car>;
+
+    vector<car> catalog;
     for(int i = 0; i < count; i++) {
         cout << "Auto #" << i + 1 << endl;
         cout << "Enter car model name: " << endl;
@@ -25,14 +26,12 @@ int main()
         cout << "Enter car release date:" << endl;
         int tmp_year;
         cin >> tmp_year;
-        catalog->push_back(car {tmp_name, tmp_year});
+        catalog.push_back({tmp_name, tmp_year});
     }
 
-    for (auto &car : *catalog) {
+    for (auto &car : catalog) {
         cout << car.release_year << " " << car.name << std::endl;
     }
-
-    delete catalog;
 
     return 0;
 }
