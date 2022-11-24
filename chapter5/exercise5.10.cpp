@@ -13,7 +13,7 @@ int main()
 
     for (int i = 1; i <= strings_count; i++) {
         for (int j = strings_count - i; j > 0; j--) {
-            cout << '.';
+            cout.fil << '.';
         }
         for (int k = i; k > 0; k--) {
             cout << '*';
