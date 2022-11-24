@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 
 int main()
 {
@@ -12,8 +11,10 @@ int main()
     cin >> strings_count;
 
     for (int i = 1; i <= strings_count; i++) {
+        cout.fill('.');
+
         for (int j = strings_count - i; j > 0; j--) {
-            cout.fil << '.';
+            cout << '.';
         }
         for (int k = i; k > 0; k--) {
             cout << '*';
