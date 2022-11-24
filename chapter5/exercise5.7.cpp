@@ -1,8 +1,5 @@
 #include <iostream>
-#include <array>
 #include <string>
-
-int arSize = 12;
 
 struct car
 {
