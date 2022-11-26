@@ -14,8 +14,6 @@ int main()
         std::cin.get(ch);
     }
     std::cout << "\nPlease excuse the slight confusion.\n";
-    //std::cin.get();
-    //std::cin.get();
 
     return 0;
 }
