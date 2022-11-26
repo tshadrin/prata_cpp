@@ -13,7 +13,10 @@ int main()
             std::cout << ++ch;
         std::cin.get(ch);
     }
+    //++ch не меняет тип ch, при этом ch + 1 в cout приведет результат выражения к типу int
     std::cout << "\nPlease excuse the slight confusion.\n";
+    //std::cin.get();
+    //std::cin.get();
 
     return 0;
 }
