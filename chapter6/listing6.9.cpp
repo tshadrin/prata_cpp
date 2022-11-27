@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cctype>
+
 bool is_int(double);
 
 int main()
