@@ -1,6 +1,6 @@
-#include <iostream>
+  #include <iostream>
 const char * qualify[4] = {
-        "10,000-meter race\n",
+        "10,000-meter race.\n",
         "mud tug-of-war.\n",
         "master canoe jousting.\n",
         "pie-throwing festival.\n"
@@ -22,7 +22,7 @@ int main()
         index = 2;
     else
         index = 3;
-    cout << "You qualife for the " << qualify[index];
+    cout << "You qualify for the " << qualify[index];
 
     return 0;
 }

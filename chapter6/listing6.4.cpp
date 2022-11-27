@@ -6,7 +6,7 @@ int main()
 
     cout << "This programm may reformat your hard disk\n"
             "and destroy all your data.\n"
-            "Do you wish to continue?<y/n> ";
+            "Do you wish to continue? <y/n> ";
     char ch;
     cin >> ch;
     if (ch == 'y' || ch == 'Y') {
