@@ -27,5 +27,11 @@ int main()
         cin.get(ch);
     }
 
+    cout << chars << " letters, "
+         << whitespace << " whitespace, "
+         << digits << " digits, "
+         << punct << " punctuations, "
+         << others << " others.\n";
+
     return 0;
 }
